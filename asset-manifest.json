@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/customer-list-react/static/css/main.705b9945.chunk.css",
+    "main.js": "/customer-list-react/static/js/main.c126773b.chunk.js",
+    "main.js.map": "/customer-list-react/static/js/main.c126773b.chunk.js.map",
+    "runtime-main.js": "/customer-list-react/static/js/runtime-main.32c7278e.js",
+    "runtime-main.js.map": "/customer-list-react/static/js/runtime-main.32c7278e.js.map",
+    "stencil-h8k-logo_2-entry-js.js": "/customer-list-react/static/js/stencil-h8k-logo_2-entry-js.5223fb50.chunk.js",
+    "stencil-h8k-logo_2-entry-js.js.map": "/customer-list-react/static/js/stencil-h8k-logo_2-entry-js.5223fb50.chunk.js.map",
+    "stencil-polyfills-css-shim.js": "/customer-list-react/static/js/stencil-polyfills-css-shim.54423c61.chunk.js",
+    "stencil-polyfills-css-shim.js.map": "/customer-list-react/static/js/stencil-polyfills-css-shim.54423c61.chunk.js.map",
+    "static/css/4.17f8cf15.chunk.css": "/customer-list-react/static/css/4.17f8cf15.chunk.css",
+    "static/js/4.2b5f1f69.chunk.js": "/customer-list-react/static/js/4.2b5f1f69.chunk.js",
+    "static/js/4.2b5f1f69.chunk.js.map": "/customer-list-react/static/js/4.2b5f1f69.chunk.js.map",
+    "static/js/5.6c036d79.chunk.js": "/customer-list-react/static/js/5.6c036d79.chunk.js",
+    "static/js/5.6c036d79.chunk.js.map": "/customer-list-react/static/js/5.6c036d79.chunk.js.map",
+    "static/js/6.3b219ef2.chunk.js": "/customer-list-react/static/js/6.3b219ef2.chunk.js",
+    "static/js/6.3b219ef2.chunk.js.map": "/customer-list-react/static/js/6.3b219ef2.chunk.js.map",
+    "index.html": "/customer-list-react/index.html",
+    "precache-manifest.417ebceed6b76796a84532c956bd9526.js": "/customer-list-react/precache-manifest.417ebceed6b76796a84532c956bd9526.js",
+    "service-worker.js": "/customer-list-react/service-worker.js",
+    "static/css/4.17f8cf15.chunk.css.map": "/customer-list-react/static/css/4.17f8cf15.chunk.css.map",
+    "static/css/main.705b9945.chunk.css.map": "/customer-list-react/static/css/main.705b9945.chunk.css.map",
+    "static/js/4.2b5f1f69.chunk.js.LICENSE.txt": "/customer-list-react/static/js/4.2b5f1f69.chunk.js.LICENSE.txt",
+    "static/js/5.6c036d79.chunk.js.LICENSE.txt": "/customer-list-react/static/js/5.6c036d79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32c7278e.js",
+    "static/css/4.17f8cf15.chunk.css",
+    "static/js/4.2b5f1f69.chunk.js",
+    "static/css/main.705b9945.chunk.css",
+    "static/js/main.c126773b.chunk.js"
+  ]
+}
